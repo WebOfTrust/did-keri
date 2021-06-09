@@ -11,4 +11,4 @@ that any valid Key Event Log can be processed into a DID Document.
 
 The rendered version of the specification can be found at:
 
-[KERI DID Method Specification](https://identity.foundation/keri/did_methods/)
+[KERI DID Method Specification](https://weboftrust.github.io/did-keri/)
